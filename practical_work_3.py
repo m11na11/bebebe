@@ -38,7 +38,8 @@ print('Минимум:', min(numbers))
 print('Максимум:', max(numbers))
 print('Среднее арифметическое:', sum(numbers) / len(numbers))
 
-# 6.numbers = [2, 5, 3, 5, 8, 5]
+# 6.
+numbers = [2, 5, 3, 5, 8, 5]
 x = int(input('Введите число: '))
 print('Есть в списке:', x in numbers)
 print('Количество вхождений:', numbers.count(x))
