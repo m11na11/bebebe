@@ -43,7 +43,7 @@ elif operation == '6':
         print('Ошибка: делить на ноль нельзя!')
 
 elif operation == '7':
-    print('Результат:', a ** b)
+    print('Результат:', a**b)
 
 elif operation == '8':
     print('Равно:', a == b)
